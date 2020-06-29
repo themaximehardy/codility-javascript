@@ -1,0 +1,19 @@
+{
+  "name": "codility-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themaximehardy/codility-javascript.git"
+  },
+  "author": "Maxime Hardy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themaximehardy/codility-javascript/issues"
+  },
+  "homepage": "https://github.com/themaximehardy/codility-javascript#readme"
+}
