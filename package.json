@@ -1,7 +1,7 @@
 {
   "name": "codility-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "codility solutions in javascript + tests",
   "main": "index.js",
   "scripts": {
     "test": "jest"
