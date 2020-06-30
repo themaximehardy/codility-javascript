@@ -1,7 +1,7 @@
 /**
  * BinaryGap
  * https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
- * @param {*} N is an integer within the range [1..2,147,483,647]
+ * @param {number} N is an integer within the range [1..2,147,483,647]
  */
 function solution(N) {
     const decimalToBinary = decimal => (decimal >>> 0).toString(2);

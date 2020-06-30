@@ -1,8 +1,8 @@
 /**
  * CyclicRotation
  * https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
- * @param {*} A is an array (where each element is an integer within the range [−1,000..1,000])
- * @param {*} K is integer within the range [0..100]
+ * @param {number[]} A is an array (where each element is an integer within the range [−1,000..1,000])
+ * @param {number} K is integer within the range [0..100]
  */
 function solution(A, K) {
 	const N = A.length;
