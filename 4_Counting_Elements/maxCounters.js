@@ -5,9 +5,9 @@
  * @param {number[]} A is an array (where each element is an integer within the range [1..N + 1])
  */
 function solution(N, A) {
-	// TODO
+    // TODO
 
-	return false;
+    return false;
 }
 
 module.exports = solution;
